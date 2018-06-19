@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-    printf(“Today is Rainy02 ”);
+    printf(“My Name is Oguro!! ”);
     return 0;
 }
